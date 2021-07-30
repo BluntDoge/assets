@@ -1,0 +1,11 @@
+{
+    "name": "BluntDoge",
+    "type": "BEP20",
+    "symbol": "BLUNT",
+    "decimals": 9,
+    "website": "https://bluntdoge.com/",
+    "description": "BluntDoge is a community-token with high reflection & innovative burn mechanics",
+    "explorer": "https://bscscan.com/token/0x5e86955ff08838744d9d53784435bdde85e6193b",
+    "status": "active",
+    "id": "0x5e86955ff08838744d9d53784435bdde85e6193b"
+}
